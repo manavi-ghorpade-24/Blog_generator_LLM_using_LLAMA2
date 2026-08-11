@@ -51,5 +51,5 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
 
 ---
-Enjoy generating blog content with LLAMA-2 and Streamlit! If you have any questions or feedback, please don't hesitate to reach out. Happy blogging! 📝✨
+Enjoy generating blog content with LLAMA-2 and Streamlit! If you have any questions or feedback, please don't hesitate to reach out. Happy blogging!
 
